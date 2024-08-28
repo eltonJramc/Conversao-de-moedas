@@ -23,3 +23,6 @@ O projeto "Conversão de Moedas" é um programa desenvolvido em Python que permi
 - **`conversao.py`**: Interface de linha de comando para a conversão de moedas.
 - **`index_grafico.py`**: Interface de linha de comando para a geração dos gráficos.
 - **`graficos.py`**: Módulo responsável por gerar os gráficos utilizando a biblioteca `matplotlib`.
+
+## Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
